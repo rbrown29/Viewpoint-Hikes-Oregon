@@ -3,8 +3,8 @@
 A simple React application that showcases viewpoint hikes in Oregon. This app displays a grid of hiking cards with images and links to detailed information. It also includes a static Mapbox map showing the hike locations with markers.
 
 This is a add on page for my my Oregon Hikes Project:
-https://github.com/rbrown29/Oregon-Hikes
-https://oregon-hikes.onrender.com/
+- https://github.com/rbrown29/Oregon-Hikes
+- https://oregon-hikes.onrender.com/
 
 ## Features
 - **Responsive Hike Cards**: Displays hike images with clickable links to detailed descriptions.
