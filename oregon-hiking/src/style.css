@@ -101,4 +101,10 @@ body {
     #map {
       display: none;
     }
+    img {
+      display: none;
+    }
+    header h1 {
+      font-size: 20px;
+    }
   }
