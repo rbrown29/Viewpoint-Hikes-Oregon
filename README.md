@@ -40,8 +40,7 @@ This is a add on page for my my Oregon Hikes Project:
 - ├── App.js            # Main application component
 - ├── HikeCard.js       # Component for individual hike cards
 - ├── HikingMap.js      # Component for rendering the static Mapbox map
-- ├── App.css           # Global styles
-- ├── style.css         # Styles for the hike cards
+- ├── style.css         # Styles for the hike cards, map, and layout
 - └── index.js          # Entry point for the React app
 
 ## Deployment
