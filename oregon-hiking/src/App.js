@@ -79,6 +79,21 @@ function App() {
       name: 'Paradise Park via the Sandy River',
       imageUrl: 'https://www.oregonhikers.org/w/images/thumb/c/cc/Timberlinenofparadise.JPG/800px-Timberlinenofparadise.JPG',
       linkUrl: 'https://www.oregonhikers.org/field_guide/Paradise_Park_via_the_Sandy_River_Hike',
+    },
+    {
+      name: 'Chalk Basin Loop Hike',
+      imageUrl: 'https://www.oregonhikers.org/w/images/thumb/f/f9/Palisades_above_the_Owyhee%2C_Colorful_Canyon%2C_Chalk_Basin.jpg/800px-Palisades_above_the_Owyhee%2C_Colorful_Canyon%2C_Chalk_Basin.jpg',
+      linkUrl: 'https://www.oregonhikers.org/field_guide/Chalk_Basin_Loop_Hike',
+    },
+    {
+      name: 'Cape Foulweather Hike',
+      imageUrl: 'https://www.oregonhikers.org/w/images/thumb/1/1e/CapeFWVP3.JPG/500px-CapeFWVP3.JPG',
+      linkUrl: 'https://www.oregonhikers.org/field_guide/Cape_Foulweather_Hike',
+    },
+    {
+      name: 'Devils Peak Loop Hike',
+      imageUrl: 'https://www.oregonhikers.org/w/images/thumb/2/2d/DP_summit.JPG/800px-DP_summit.JPG',
+      linkUrl: 'https://www.oregonhikers.org/field_guide/Devils_Peak_Loop_Hike',
     }
   ];
 

@@ -20,6 +20,9 @@ const HikingMap = () => {
     "pin-s-star+B4FF00(-122.21603,46.27757)",
     "pin-s-star+B4FF00(-122.21505,45.62799)",
     "pin-s-star+B4FF00(-121.83221,45.38696)",
+    "pin-s-star+B4FF00(-122.28581,42.66290)",
+    "pin-s-star+B4FF00(-124.07285,44.77073)",
+    "pin-s-star+B4FF00(-117.73552,43.07709)",
   ];
   const center = "-120.5,44.0,6";
   const dimensions = "700x1000";
