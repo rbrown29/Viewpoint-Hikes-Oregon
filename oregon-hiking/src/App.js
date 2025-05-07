@@ -62,7 +62,7 @@ function App() {
     },
     {
       name: 'Fort Rock Loop Hike',
-      imageUrl: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.dza2t6Ww7sOxKsOdoGDdxQHaD4%26cb%3Diwp1%26pid%3DApi&f=1&ipt=0b99174ab18fc5c3253b4d57cae65cffa75cea17c8434879fcc5cda645c1033e&ipo=images',
+      imageUrl: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cZ_rf1vg2dtVoQsabj2eLAHaE6%26pid%3DApi&f=1&ipt=c8680ff9b3ef4205450b236738b7f1dbf3c2a0626303228360eefdad770812e7&ipo=images',
       linkUrl: 'https://www.oregonhikers.org/field_guide/Fort_Rock_Loop_Hike',
     },
     {
